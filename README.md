@@ -1,5 +1,7 @@
 # A very simple data product for Coursera class
 
+Link to the application, in all its glory - https://esherpadotnet.shinyapps.io/DDPproject1
+
 ## Application requirements
 
 Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
